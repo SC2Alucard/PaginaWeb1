@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PaginaWeb1/static/css/main.4a57bec6.chunk.css",
+    "main.js": "/PaginaWeb1/static/js/main.1648fdfa.chunk.js",
+    "main.js.map": "/PaginaWeb1/static/js/main.1648fdfa.chunk.js.map",
+    "runtime-main.js": "/PaginaWeb1/static/js/runtime-main.11ce3057.js",
+    "runtime-main.js.map": "/PaginaWeb1/static/js/runtime-main.11ce3057.js.map",
+    "static/js/2.1c649832.chunk.js": "/PaginaWeb1/static/js/2.1c649832.chunk.js",
+    "static/js/2.1c649832.chunk.js.map": "/PaginaWeb1/static/js/2.1c649832.chunk.js.map",
+    "index.html": "/PaginaWeb1/index.html",
+    "precache-manifest.860691b853b7f11f8f54bc53c47c6f2f.js": "/PaginaWeb1/precache-manifest.860691b853b7f11f8f54bc53c47c6f2f.js",
+    "service-worker.js": "/PaginaWeb1/service-worker.js",
+    "static/css/main.4a57bec6.chunk.css.map": "/PaginaWeb1/static/css/main.4a57bec6.chunk.css.map",
+    "static/js/2.1c649832.chunk.js.LICENSE.txt": "/PaginaWeb1/static/js/2.1c649832.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ce3057.js",
+    "static/js/2.1c649832.chunk.js",
+    "static/css/main.4a57bec6.chunk.css",
+    "static/js/main.1648fdfa.chunk.js"
+  ]
+}
